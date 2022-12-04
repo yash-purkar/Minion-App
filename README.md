@@ -1,4 +1,4 @@
-# Bananaaaa Speak
+# Minion Speak
 
 Hello Friends I made this GUI app. It translates english sentence into <strong>ferb-latin</strong>.
 
